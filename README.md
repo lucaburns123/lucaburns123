@@ -1,15 +1,11 @@
-# About 🤔
+# 🤔 About 
 Hello! My name is Luca. I usually go by dwit as thats my username. I study Reverse Engineering & Software Based Cybersecurity (Exploitation and Vulnerability Analysis) and study everything from Ring 3 Software Security & Exploitation to Ring 0 Kernel Level OS Exploitation (Such as the Windows Kernel Frame & Security. I am currently finishing LAT which can be found on my public repository list. Also developing a personal IOCTL driver & loader designed for EAC, that can map while being unsigned safely which will also bypass CR3 shuffling & patchguard. This will most likely stay private as its main usage, would only be for personal use & friends.
-## 🔭 Primary coding languages.
-- C++/C#
-- HTML/CSS/JS
-- Python
-- SkillFix
-- Java
-## 💬 More information
+# 💻 Primary coding stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+# 💬 More information
 - I've been studying C++, aswell as other languages for over 6 years now. I've been devloping all sorts of computer software, with examples like my quality-of-life software, or even my memory-manipulation software. I've been developing game-cheats, ranging from user-level internals & externals, to kernal-level internal for over 4 years now. Believe it, or not; I do actually have a huge life outside of coding, I like to keep this hobbie away from my social-life
-## 📫 Find me
-- discord: dwit#7848
+# 📫 Find me
+- discord: `dwit#7848`
   
 
 <!--
