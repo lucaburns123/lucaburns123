@@ -2,7 +2,7 @@
 Currently finishing LAT which can be found on my public repository list. Also developing a personal IOCTL driver designed for EAC, which bypasses CR3 shuffling & patchguard; this will be implemented in my private.
 ## 🔭 Primary coding languages.
 - C++/C#
-- HTML
+- HTML/CSS/JS
 - Python
 - SkillFix
 - Java
