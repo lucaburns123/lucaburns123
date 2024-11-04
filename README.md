@@ -1,5 +1,5 @@
-# dwit 🤔
-Currently finishing LAT which can be found on my public repository list. Also developing a personal IOCTL driver & loader designed for EAC, that can map while being unsigned safely which will also bypass CR3 shuffling & patchguard. This will most likely stay private as its main usage, would only be for personal use & friends.
+# About 🤔
+Hello! My name is Luca. I usually go by dwit as thats my username. I study Reverse Engineering & Software Based Cybersecurity (Exploitation and Vulnerability Analysis) and study everything from Ring 3 Software Security & Exploitation to Ring 0 Kernel Level OS Exploitation (Such as the Windows Kernel Frame & Security. I am currently finishing LAT which can be found on my public repository list. Also developing a personal IOCTL driver & loader designed for EAC, that can map while being unsigned safely which will also bypass CR3 shuffling & patchguard. This will most likely stay private as its main usage, would only be for personal use & friends.
 ## 🔭 Primary coding languages.
 - C++/C#
 - HTML/CSS/JS
