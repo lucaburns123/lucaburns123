@@ -6,7 +6,7 @@ Hello! My name is Luca. I usually go by dwit as thats my username. I study Rever
 - I've been studying C++, aswell as other languages for over 6 years now. I've been devloping all sorts of computer software, with examples like my quality-of-life software, or even my memory-manipulation software. I've been developing game-cheats, ranging from user-level internals & externals, to kernal-level internal for over 4 years now. Believe it, or not; I do actually have a huge life outside of coding, I like to keep this hobbie away from my social-life
 # 📫 Find me & FYI
 - discord: `dwit#7848`
-  please also don't ask for invites to burning.services or else you wont get one !!
+ `please also don't ask for invites`
 
 <!--
 **lucaburns123/lucaburns123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
